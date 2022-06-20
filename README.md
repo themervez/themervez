@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working on .Net technology
-- 🌱 I’m currently learning .Net
-- <!--
+- 🌱 I’m currently learning .Net <!--
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
