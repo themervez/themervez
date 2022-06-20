@@ -2,13 +2,14 @@
 
 
 
-- 🔭 I’m currently working on .Net technology
- <!--
-- 🌱 I’m currently learning .Net
+- 🔭 I’m currently working on .Net
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate with anyone who can contribute something to me
+
+- 💬 Ask me about coding or biomedical engineering
+ <!--
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning .Net
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
