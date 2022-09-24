@@ -8,7 +8,7 @@
 
 - 💬 Ask me about coding or biomedical engineering
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=themervez&repo=github-visitors-badge&countColor=dc143c)
+![](https://api.visitorbadge.io/api/VisitorHit?user=themervez&repo=github-visitors-badge&countColor=blue)
  <!--
 - 🤔 I’m looking for help with ...
 - 🌱 I’m currently learning .Net
