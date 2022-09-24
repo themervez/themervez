@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=themervez&label=Visitors)
+![](https://komarev.com/ghpvc/?username=themervez&label=Visitors&color=orange)
   
 ### Hii everyone 👋
 
