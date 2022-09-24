@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=themervez&label=Visitors)
+  
 ### Hii everyone 👋
 
 
@@ -8,8 +10,6 @@
 
 - 💬 Ask me about coding or biomedical engineering
 
-
-  ![](https://komarev.com/ghpvc/?username=themervez&label=Visitors)
   
  <!--
 - 🤔 I’m looking for help with ...
